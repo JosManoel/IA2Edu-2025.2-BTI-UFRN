@@ -1,0 +1,6 @@
+gdown
+pandas
+scikit-learn
+tensorflow-hub
+seaborn
+matplotlib
